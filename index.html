@@ -35,7 +35,7 @@
 
   <!-- Initializer -->
   <script>
-  
+/*  
     var qs = {};
     if(location.search){
       var search = location.search.substr(1);
@@ -46,9 +46,10 @@
     }
     var ref = 'production';
     if(qs.ref) ref = qs.ref;
-
+*/
     Flatdoc.run({
-      fetcher: Flatdoc.github('ttadag/docs', 'api.md?ref='+ref)
+//      fetcher: Flatdoc.github('ttadag/docs', 'api.md?ref='+ref)
+      fetcher: Flatdoc.github('ttadag/docs', 'api.md');
     });
   </script>
 </head>
