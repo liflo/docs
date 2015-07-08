@@ -1,3 +1,19 @@
+# join
+
+## join.isExist
+
+### description
+
+# enter
+# learn (Edit)
+# play
+# exit
+
+# node
+
+## node.status
+
+
 # power
 
 ## power.ischarging
