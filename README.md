@@ -87,22 +87,6 @@ cf : 각 node는 기본 정보를 공유하는 meta card를 갖는다.
 
 
 ---------------
-# join
-
-## join.isExist
-
-### description
-
-# enter
-# learn (Edit)
-# play
-# exit
-
-# node
-
-## node.status
-
-
 
 Flatdoc
 =======
