@@ -57,15 +57,13 @@ H : Hub
 
  * status
 
-
+---------------
 # 메커니즘 일반화
-
 ## topology 확정하기 
-
-### hub node 구조로 가져가기
-
+ * hub node 구조로 가져가기
 
 
+---------------
 # join
 
 ## join.isExist
