@@ -22,9 +22,12 @@
 #### TD (2 characters)
 #### Category (1 character)
 
+``` javascript
 T : Trigger
 N : General
 P : Player
+```
+
 
 #### Index (4 digit number; unique id in zone)
 
@@ -35,9 +38,12 @@ P : Player
 
 #### Node Functional Category ( 1character)
 
+``` javascript
 A : Actuator
 S : Sensor
 H : Hub
+```
+
 
 #### Node Function (2 Characters)
 
