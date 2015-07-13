@@ -1,5 +1,5 @@
 ---------------
-# Service flow stage
+# Service flow stages
 ## 0. Join (Registration)
 ## 1. Enter (Visit)
 ## 2. Learn (Edit)
@@ -34,7 +34,7 @@ P : Player
 
 ### install stage
 
- * Node Functional Category ( 1character)
+ * Node Functional Category ( 1 character)
 
 ``` 
 A : Actuator
@@ -58,9 +58,10 @@ H : Hub
  * status
 
 ---------------
-# 메커니즘 일반화
-## topology 확정하기 
- * hub node 구조로 가져가기
+# System Mechanism
+## topology 
+ * hub-peer topology
+ * systems process
 
 
 ---------------
