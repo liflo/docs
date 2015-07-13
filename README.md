@@ -1,27 +1,25 @@
-# Service flow stage
 ---------------
+# Service flow stage
 ## 0. Join (Registration)
 ## 1. Enter (Visit)
 ## 2. Learn (Edit)
 ## 3. Play
 ## 4. Exit
 
-# Objects
 ---------------
+# Objects
 
 ## ttadag ap id rule
 
-#### TD+Category+Function_FVariation +Role   -   Owner
-#### 확장성이 없음
+  TD+Category+Function_FVariation +Role   -   Owner
+  확장성이 없음
 
-
-### TD_id zone내의 unique id 부여
-
+  -> TD_id zone내의 unique id 부여
 
 ### notation rule
 
-#### TD (2 characters)
-#### Category (1 character)
+ * TD (2 characters)
+ * Category (1 character)
 
 ``` 
 T : Trigger
@@ -29,8 +27,7 @@ N : General
 P : Player
 ```
 
-
-#### Index (4 digit number; unique id in zone)
+ * Index (4 digit number; unique id in zone)
 
 
 ## communication notation in JSON and XML
