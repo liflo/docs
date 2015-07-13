@@ -41,21 +41,43 @@ A : Actuator
 S : Sensor
 H : Hub
 ```
-
-
  * Node Function (2 Characters)
 
+‘''
+SL : RGB LED for Signal
+LL : Light LED for Lighting
+GL : RGB LED for Gate
+‘''
+
  * Function Variation (4 Digit Numbers)
+4자리의 unique #로 Item 관리 서버에 등록 
+
 
 ### playing stage
 
- * card 
-
  * role
+
+ * card 
+role에 따라서 function card를 유기적으로 적용 
+
+cf : 각 node는 기본 정보를 공유하는 meta card를 갖는다.
+
+ 
 
  * owner
 
  * status
+
+# card
+
+## concept
+ card는 신호를 형성하는 단위이다.
+
+
+## 유형
+* meta card (node를 추상화)
+* role card
+* function card
 
 ---------------
 # System Mechanism
