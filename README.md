@@ -1,5 +1,5 @@
 # Service flow stage
-
+---------------
 ## 0. Join (Registration)
 ## 1. Enter (Visit)
 ## 2. Learn (Edit)
@@ -7,6 +7,7 @@
 ## 4. Exit
 
 # Objects
+---------------
 
 ## ttadag ap id rule
 
@@ -22,7 +23,7 @@
 #### TD (2 characters)
 #### Category (1 character)
 
-``` javascript
+``` 
 T : Trigger
 N : General
 P : Player
@@ -36,28 +37,28 @@ P : Player
 
 ### install stage
 
-#### Node Functional Category ( 1character)
+ * Node Functional Category ( 1character)
 
-``` javascript
+``` 
 A : Actuator
 S : Sensor
 H : Hub
 ```
 
 
-#### Node Function (2 Characters)
+ * Node Function (2 Characters)
 
-#### Function Variation (4 Digit Numbers)
+ * Function Variation (4 Digit Numbers)
 
 ### playing stage
 
-#### card 
+ * card 
 
-#### role
+ * role
 
-#### owner
+ * owner
 
-#### status
+ * status
 
 
 # 메커니즘 일반화
