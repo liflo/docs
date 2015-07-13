@@ -1,3 +1,67 @@
+# Service flow stage
+
+## 0. Join (Registration)
+## 1. Enter (Visit)
+## 2. Learn (Edit)
+## 3. Play
+## 4. Exit
+
+# Objects
+
+## ttadag ap id rule
+
+#### TD+Category+Function_FVariation +Role   -   Owner
+#### 확장성이 없음
+
+
+### TD_id zone내의 unique id 부여
+
+
+### notation rule
+
+#### TD (2 characters)
+#### Category (1 character)
+
+T : Trigger
+N : General
+P : Player
+
+#### Index (4 digit number; unique id in zone)
+
+
+## communication notation in JSON and XML
+
+### install stage
+
+#### Node Functional Category ( 1character)
+
+A : Actuator
+S : Sensor
+H : Hub
+
+#### Node Function (2 Characters)
+
+#### Function Variation (4 Digit Numbers)
+
+### playing stage
+
+#### card 
+
+#### role
+
+#### owner
+
+#### status
+
+
+# 메커니즘 일반화
+
+## topology 확정하기 
+
+### hub node 구조로 가져가기
+
+
+
 # join
 
 ## join.isExist
